@@ -1,6 +1,6 @@
 # BeaMedicine - O cuidado é a base da cura! 🩺
 
-![image](https://github.com/user-attachments/assets/8dd405d9-c648-473e-b1fe-d6f0cb43f150)
+![image](https://github.com/user-attachments/assets/fb2d14bf-63b5-40de-95a7-ea5b85ae0d2c)
 
 
 # Planejamento para um site/sistema de hospital 
