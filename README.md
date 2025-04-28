@@ -27,6 +27,15 @@ Contato mais direto com os médicos.
 
 Satisfação após concluir o sistema, sabendo que me desenvolveu profissionalmente e que poderá ser uma base para projetos futuros.
 
+## Stack utilizada ate o momento
+
+**Front-end:** HTML, CSS
+
+## Stack planejada para o futuro
+
+**Front-end:** JavaScript
+**Backend-end:** Java e MySQL
+
 
 
 
