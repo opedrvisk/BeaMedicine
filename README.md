@@ -1,7 +1,6 @@
 # BeaMedicine - O cuidado é a base da cura! 🩺
 
-![image](https://github.com/user-attachments/assets/fb2d14bf-63b5-40de-95a7-ea5b85ae0d2c)
-
+![image](https://github.com/user-attachments/assets/7ccfb167-960c-40f3-beb9-d5b6d13c71e5)
 
 # Planejamento para um site/sistema de hospital 
 
@@ -52,6 +51,15 @@ Satisfação após concluir o sistema, sabendo que me desenvolveu profissionalme
 
 ---
 
+### Inspiração de cores para o sistema 🎀
+
+<img align="center"
+src="https://media1.tenor.com/m/0qu7ztOE7TIAAAAd/beako-beatrice.gif"
+     alt="beatricezinha"
+     height="600px" />
+
+
+
 ### Créditos
 
-https://www.vecteezy.com/ - Pela imagem png da doutora
+https://www.vecteezy.com/ - doctor png
