@@ -47,8 +47,6 @@ Satisfação após concluir o sistema, sabendo que me desenvolveu profissionalme
 
 ### Stack planejada para o futuro
 
----
-
 **Front-end:** JavaScript
 **Backend-end:** Java e MySQL
 
