@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <title>Homepage da BeaMedicine</title>
+</head>
+<body>
+    <nav>
+        <div class="nav__header">
+          <div class="nav__logo">
+            <a href="#">
+              <h1>BeaMedicine</h1>
+            </a>
+          </div>
+          <div class="nav__menu__btn" id="menu-btn">
+            <i class="ri-menu-3-line"></i>
+          </div>
+        </div>
+        <ul class="nav__links" id="nav-links">
+            <li data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100"><a href="#">Home</a></li>
+            <li data-aos="fade-up" data-aos-duration="1500" data-aos-delay="200"><a href="#">Sobre</a></li>
+            <li data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300"><a href="#">Agendamentos</a></li>
+            <li data-aos="fade-up" data-aos-duration="1500" data-aos-delay="400"><a href="#">Contatos</a></li>
+            <li data-aos="fade-left" data-aos-duration="1500" data-aos-delay="500">
+            <button class="btn">
+              Fale conosco
+              <span><i class="ri-arrow-right-long-line"></i></span>
+            </button>
+          </li>
+        </ul>
+      </nav>
+
+      <header class="section__container header__container" id="home">
+        <div class="decore"><img src="decoracaodireita.png" alt=""></div>
+        <div class="header_image" data-aos="zoom-in-left" data-aos-duration="2500">
+          <img src="pngdoutora.png" alt="header"/>
+        </div>
+        <div class="header__content">
+            <h1 data-aos="fade-right" data-aos-duration="1500" data-aos-delay="700">A sua saúde é a nossa maior preocupação!</h1>
+            <p class="section_description">A BeaMedicine é um hospital que se preocupa com a saúde e bem-estar de seus pacientes. Nossa equipe de profissionais altamente qualificados está sempre pronta para oferecer o melhor atendimento possível. Site sendo desenvolvido por <a href="https://github.com/opedrvisk" target="_blank">Pedrovisk</a> para estudos de HTML e CSS.           
+            </p>
+            <form action="/"  data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1100">
+                <div class="input__group">
+                    <label for="location">
+                        <span><i class="ri-map-pin-line"></i><span> Localização
+                    </label>
+                    <input
+                     type="text"
+                     name= "localização"
+                     placeholder="Rua Gusteko Pleiadês, 725"/>
+                </div>
+                <div class="input_group">
+                    <label for="data">
+                        <span><i class="ri-calendar-line"></i></span> Funcionamento
+                    </label>
+                    <input
+                     type="text"
+                     name= "location"
+                     placeholder="Estamos abertos 24h"/>
+                    </div>
+                    <button class="btn">
+                      <i class="ri-search-line"></i>
+                    </button>
+                  </form>
+                </div>
+              </header>
+              <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({offset:0});
+    </script>
+    <script>
+      const menuBtn = document.getElementById("menu-btn");
+      const navLinks = document.getElementById("nav-links");
+
+      menuBtn.addEventListener("click", () => {
+        navLinks.classList.toggle("open");
+      });
+    </script>
+            </form>
+        </div>
+
+</html>
