@@ -1,8 +1,8 @@
-# Planejamento de um site/sistema de hospital - BeaMedicine
+# BeaMedicine - O cuidado é a base da cura! 🩺
 
-![image](https://github.com/user-attachments/assets/8dd405d9-c648-473e-b1fe-d6f0cb43f150)
+![image](https://github.com/user-attachments/assets/7ccfb167-960c-40f3-beb9-d5b6d13c71e5)
 
-### Proposta 
+# Planejamento para um site/sistema de hospital 
 
 Desenvolver um sistema de hospital fictício com função de agendamento de consultas, entrar em contato com o hospital (sms e demais métodos) e marcar convênios. Buscando um contato mais direto entre os medicos e seus pacientes.
 
@@ -24,32 +24,42 @@ Contato mais direto do paciente com os médicos.
 
 ---
 
-## Opções futuras para acrescentar 
+### Opções futuras para acrescentar 
 
 - Criar bancos de dados para cada uma das necessidades, como por exemplo, armazenar no nome do paciente suas consultas pendentes.
 - Adicionar um sistema de criação de conta e personalização de acordo com a vontade do paciente, para facilitar a organização de suas consultas.
+- Ser totalmente responsivo aos dispositivos mobile.
 
 ---
 
-# Expectativas para o futuro
+### Expectativas para o futuro
 
 Satisfação após concluir o sistema, sabendo que me desenvolveu profissionalmente e que poderá ser uma base para projetos futuros.
 
 ---
 
-## Stack utilizada ate o momento
+### Stack utilizada ate o momento
 
 **Front-end:** HTML, CSS
 
 ---
 
-## Stack planejada para o futuro
-
----
+### Stack planejada para o futuro
 
 **Front-end:** JavaScript
 **Backend-end:** Java e MySQL
 
+---
+
+### Inspiração de cores para o sistema 🎀
+
+<img align="center"
+src="https://media1.tenor.com/m/0qu7ztOE7TIAAAAd/beako-beatrice.gif"
+     alt="beatricezinha"
+     height="600px" />
 
 
 
+### Créditos
+
+https://www.vecteezy.com/ - doctor png
