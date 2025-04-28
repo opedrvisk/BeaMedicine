@@ -28,6 +28,7 @@ Contato mais direto do paciente com os médicos.
 
 - Criar bancos de dados para cada uma das necessidades, como por exemplo, armazenar no nome do paciente suas consultas pendentes.
 - Adicionar um sistema de criação de conta e personalização de acordo com a vontade do paciente, para facilitar a organização de suas consultas.
+- Ser totalmente responsivo aos dispositivos mobile.
 
 ---
 
@@ -50,6 +51,8 @@ Satisfação após concluir o sistema, sabendo que me desenvolveu profissionalme
 **Front-end:** JavaScript
 **Backend-end:** Java e MySQL
 
+---
 
+# Créditos
 
-
+https://www.vecteezy.com/ - Pela imagem png da doutora
