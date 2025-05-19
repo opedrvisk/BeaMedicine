@@ -39,7 +39,7 @@
   display: flex;
   align-items: center;
   gap: 5px;
-  font-size: 3rem;
+  font-size: 1rem;
   font-family: "Roboto", serif;
   color: var(--white);
   background-color: var(--primary-color);
