@@ -18,7 +18,7 @@ Contato mais direto do paciente com os médicos.
 
 - Tela Home - Onde o usúario se guiará através do site.
 - Tela Sobre - Uma simples tela abordando o que o hospital oferece ao paciente.
-- Tela Consultas- Tela em que o paciente poderá ver suas consultas pendentes.
+- Tela Consultas- Tela em que o paciente poderá ver suas consultas pendentes. [Consulta](https://github.com/opedrvisk/ClinicaMedicaSQL)
 - Tela Especialidades - O site mostrará quais são as especialidades dos médicos que estão trabalhando no hospital.
 - Tela Contate-nos - Será apresentado ao paciente as maneiras de entrar em comunicação com o hospital.
 
