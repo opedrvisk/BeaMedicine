@@ -2,9 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/7ccfb167-960c-40f3-beb9-d5b6d13c71e5)
 
-# Planejamento para um site/sistema de hospital 
+# Planejamento para um site/sistema de clínica médica 
 
-Desenvolver um sistema de hospital fictício com função de agendamento de consultas, entrar em contato com o hospital (sms e demais métodos) e marcar convênios. Buscando um contato mais direto entre os medicos e seus pacientes.
+Desenvolver um sistema de uma clínica médica fictício com função de agendamento de consultas, entrar em contato com o hospital (sms e demais métodos) e marcar convênios. Buscando um contato mais direto entre os medicos e seus pacientes.
 
 ---
 
@@ -18,7 +18,7 @@ Contato mais direto do paciente com os médicos.
 
 - Tela Home - Onde o usúario se guiará através do site.
 - Tela Sobre - Uma simples tela abordando o que o hospital oferece ao paciente.
-- Tela Consultas- Tela em que o paciente poderá ver suas consultas pendentes.
+- Tela Consultas- Tela em que o paciente poderá ver suas consultas pendentes. [Consulta](https://github.com/opedrvisk/ClinicaMedicaSQL)
 - Tela Especialidades - O site mostrará quais são as especialidades dos médicos que estão trabalhando no hospital.
 - Tela Contate-nos - Será apresentado ao paciente as maneiras de entrar em comunicação com o hospital.
 
@@ -47,7 +47,7 @@ Satisfação após concluir o sistema, sabendo que me desenvolveu profissionalme
 ### Stack planejada para o futuro
 
 **Front-end:** JavaScript
-**Backend-end:** Java e MySQL
+**Backend-end:** C# e MySQL
 
 ---
 
