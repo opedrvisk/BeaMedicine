@@ -2,9 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/7ccfb167-960c-40f3-beb9-d5b6d13c71e5)
 
-# Planejamento para um site/sistema de hospital 
+# Planejamento para um site/sistema de clínica médica 
 
-Desenvolver um sistema de hospital fictício com função de agendamento de consultas, entrar em contato com o hospital (sms e demais métodos) e marcar convênios. Buscando um contato mais direto entre os medicos e seus pacientes.
+Desenvolver um sistema de uma clínica médica fictício com função de agendamento de consultas, entrar em contato com o hospital (sms e demais métodos) e marcar convênios. Buscando um contato mais direto entre os medicos e seus pacientes.
 
 ---
 
